@@ -10,6 +10,12 @@ Learning, experimenting, and building — one commit at a time.
 Hi! I'm **Allen Ronn Parado**, a 4th-year Information Technology student based in the Philippines.
 I continuously explore different technologies, with a strong focus on security, development, and system design.
 
+## Tech Stack
+
+Technologies I use across web, backend, and mobile projects:
+
+[![Tech Stack](https://skillicons.dev/icons?i=js,dart,html,css,tailwind,react,nodejs,express,dotnet,postgres,mysql,supabase,flutter,git,docker,linux,npm,vercel&theme=light&perline=9)](https://skillicons.dev)
+
 ---
 
 ## Contact
