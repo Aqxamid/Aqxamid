@@ -12,9 +12,31 @@ I continuously explore different technologies, with a strong focus on security, 
 
 ## Tech Stack
 
-Technologies I use across web, backend, and mobile projects:
+Grouped by what I use them for:
 
-[![Tech Stack](https://skillicons.dev/icons?i=js,dart,html,css,tailwind,react,nodejs,express,dotnet,postgres,mysql,supabase,flutter,git,docker,linux,npm,vercel&theme=light&perline=9)](https://skillicons.dev)
+### Languages
+
+[![Languages](https://skillicons.dev/icons?i=js,dart&theme=light)](https://skillicons.dev)
+
+### Frontend
+
+[![Frontend](https://skillicons.dev/icons?i=html,css,tailwind,react&theme=light)](https://skillicons.dev)
+
+### Backend
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,dotnet&theme=light)](https://skillicons.dev)
+
+### Databases
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,supabase&theme=light)](https://skillicons.dev)
+
+### Mobile
+
+[![Mobile](https://skillicons.dev/icons?i=flutter&theme=light)](https://skillicons.dev)
+
+### Tools & Platforms
+
+[![Tools and Platforms](https://skillicons.dev/icons?i=git,docker,linux,npm,vercel&theme=light)](https://skillicons.dev)
 
 ---
 
