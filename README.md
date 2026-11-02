@@ -37,7 +37,7 @@ Grouped by what I use them for:
 ### Tools & Platforms
 
 [![Tools and Platforms](https://skillicons.dev/icons?i=git,docker,linux,npm,vercel&theme=light)](https://skillicons.dev)
-<a href="https://render.com" title="Render"><img src="https://cdn.simpleicons.org/render/000000#gh-light-mode-only" width="48" height="48" alt="Render" /><img src="https://cdn.simpleicons.org/render/FFFFFF#gh-dark-mode-only" width="48" height="48" alt="Render" /></a>
+<a href="https://render.com" title="Render"><img src="https://cdn.simpleicons.org/render/000000" width="48" height="48" alt="Render" /></a>
 
 ---
 
